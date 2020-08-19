@@ -1,3 +1,6 @@
+## PuppeteerSharp
+I've "ported" this to PuppeteerSharp as a c# extension method. Just copy/paste the code.
+
 ## puppeteer-bypassing-bot-detection
 
 This repository contains code for bypassing common bot detection checks by a few vendors ([Distil Networks](https://www.whitepages.com/dstl-wp.js), [Adscore](http://c.adsco.re/d), and [Google IMA](https://imasdk.googleapis.com/js/sdkloader/ima3.js)).
